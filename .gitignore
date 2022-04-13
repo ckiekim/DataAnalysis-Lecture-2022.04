@@ -1,6 +1,10 @@
 # ckiekim add
 exercise.ipynb
 
+# API key
+roadapikey.txt
+kakaoapikey.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
